@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="action_sign_in">SIGN IN</string>
+    <string name="action_register">REGISTER</string>
+    <string name="prompt_email">EMAIL</string>
+    <string name="prompt_password">PASSWORD</string>
+    <string name="action_sign_out">SIGN OUT</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="view_uploads">View Uploads</string>
+    <string name="no_file">No File Selected</string>
+    <string name="login_page">LeviOsa</string>
+</resources>
